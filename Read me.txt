@@ -1,0 +1,6 @@
+   Self bot by Slayer
+
+NOTE: Account automation is againt Discord ToS and community guidlines, USE AT YOUR OWN RISK!
+
+This is Slayers self bot created by Slayer, All configuration settings are in "config.json".
+When all config settings are set to your prefernce then run the "host.bat" file.

@@ -1,0 +1,29 @@
+{   
+	"token": "",
+	"prefix": "!",
+
+    "self_bot_name": "Slayer self bot",
+    "messagelogger": false,
+    "message_edit_logger": false,
+
+    "afk_default": false,
+    "afk_message": "is afk!",
+
+    "defualtcolor": "0x2f3136",
+    "help_gif": "https://media1.tenor.com/images/340355c8660505dd1eae14777298e08b/tenor.gif?itemid=17140470",
+    "nitrosniper": true,
+
+    "channeln": ["slayer runs you", "Slayer Beamed You", "wizzed by slayer"],
+    "servername": "slayer wizzed u",
+    "servericon": "LINK HERE",
+    "rolenames": ["Beamed By slayer", "Slayer runs yall"],
+    "webhooknames": ["1500 RUNS ALL", "1500 RUNS CORD", "BEAMED BY slayer"],
+    "webhookmessages": ["@everyone SLAYER RUNS YOU", "@everyone GET PROTECTION"],
+    "rolecolors": ["743dc0", "49c03d", "cc1b1b", "151212", "f47fff", "d9643b", "a81e7f", "3522c9", "8e63df", "ff60f0", "584b1a", "7b83be", "4836eb", "53cde0", "502382", "0c9f39", "033938", "c6dcca", "0283d5", "f16911", "17b053", "bcdf01", "42066e", "b5e19a", "8da299", "f50b3e"],
+    "messagespam": ["SLAYER runs you @everyone", "@everyone SLAYER RUNS YOU"],
+
+    "stream_url": "https://www.twitch.tv/#", 
+    "activity": "dnd",
+    "statustype": "STREAMING",
+    "status": "Bot dev | DM offers |Staff Manager for team Fate | .gg/teamfate"
+}
